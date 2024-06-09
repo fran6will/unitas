@@ -1,6 +1,12 @@
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.fr.md">Français</a>
+
+## Note
+
+Unitas is a theoretical model designed to invite collective reflection on the concept and essence of religion. It aims to explore how a new spiritual and community framework can address modern needs for inclusivity and connection without the constraints of traditional religious structures.
+
+---
   
 # Unitas: A New Spiritual and Community Platform
 
