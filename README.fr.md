@@ -18,7 +18,7 @@ Face au rejet des religions traditionnelles par les jeunes générations, Unitas
 
 ---
 
-## [Les Principes Fondamentaux](/docs/fr/Principes.md).
+## [Les Principes Fondamentaux](Docs/fr/Principes.md).
 
 Unitas repose sur plusieurs piliers essentiels :
 - **Unité et Égalité:** Chaque individu est traité avec dignité et respect.
