@@ -1,7 +1,8 @@
+# Unitas: Une nouvelle plateforme spirituelle et communautaire
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.fr.md">Français</a>
-# Unitas: Une nouvelle plateforme spirituelle et communautaire
+
 
 ## Note
 
