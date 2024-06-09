@@ -3,6 +3,12 @@
   <a href="README.fr.md">Français</a>
 # Unitas: Une nouvelle plateforme spirituelle et communautaire
 
+## Note
+
+Unitas est un modèle théorique conçu pour inviter à une réflexion collective sur le concept et l'essence du mot religion. Il vise à explorer comment un nouveau cadre spirituel et communautaire peut répondre aux besoins modernes d'inclusivité et de connexion sans les contraintes des structures religieuses traditionnelles.
+
+---
+
 ## Introduction
 
 **Religare (relier):** Cicéron proposait que "religion" dérive de "religare", signifiant "relier". Cela suggère l'idée de relier les humains à la divinité ou à des valeurs spirituelles.
