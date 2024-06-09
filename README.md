@@ -18,7 +18,7 @@ In response to the rejection of traditional religions by younger generations, Un
 
 ---
 
-## [Core Principles](/en/PRINCIPLES.md).
+## [Core Principles](/en/PRINCIPLES.md)
 
 Unitas is built on several essential pillars:
 - **Unity and Equality:** Every individual is treated with dignity and respect.
