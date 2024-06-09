@@ -43,7 +43,7 @@ By adhering to these guidelines, we ensure a collaborative, fair, and transparen
 
 ---
 
-<a name="#francais"># Directives de Contribution pour Unitas</a>
+# Directives de Contribution pour Unitas<a name="#francais"></a>
 
 Nous accueillons les contributions au projet Unitas ! Pour garantir un processus juste et transparent, veuillez suivre ces directives de contribution :
 
