@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="en/PRINCIPLES.md">English</a> |
-  <a href="fr/PRINCIPES.fr.md">Français</a>
+  <a href="/fr/PRINCIPES.fr.md">Français</a>
 </p>
 
 ## Note
