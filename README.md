@@ -17,6 +17,17 @@ Unitas is a theoretical model designed to invite collective reflection on the co
 In response to the rejection of traditional religions by younger generations, Unitas aims to bridge the gap between the rise of individual spirituality and the decline of traditional spiritual systems. By offering a framework without clergy or institutional dominance, Unitas seeks to revive the positive aspects of religion in a new structure, addressing modern needs for less dogmatic and more inclusive spirituality.
 
 ---
+## What We Believe
+
+Unitas is a spiritual and community movement dedicated to unity, inclusion, and collective growth. We believe in a higher force currently named Source of Life, Heart of Existence, Universal Breath, aiming to deconstruct the patriarchal image of God. All human beings are equal and deserve respect and dignity. Diversity is celebrated, and each individual is valued. We believe in the richness of exchanges between those who believe in astrology and those who follow a prophet, emphasizing love and interconnection. We are all a common light, illuminating our path towards mutual understanding and compassion.
+
+We uphold freedom of conscience, allowing each person to follow their own spiritual path as long as it does not harm others. We advocate for transparency and collective participation in our decision-making processes, ensuring total inclusion. We act with kindness and compassion, rejecting all forms of violence and promoting a harmonious environment. We recognize the importance of protecting our planet and adopt sustainable and environmentally respectful practices.
+
+Education and knowledge sharing are at the heart of our commitment, fostering collective growth and personal development. The arts are valued as a means of personal expression and spiritual connection, while humor and self-irony are essential for maintaining spiritual and emotional balance. We balance spiritual contemplation with benevolent actions for the collective good. We aspire to a better world, filled with love, and to create a strong sense of community that is currently lacking.
+
+Our system evolves over time, integrating technological and scientific advances to remain relevant and accessible. We believe that our principles and laws must evolve to adapt to contemporary realities while staying true to our fundamental values. We invite you to explore this vision with us, to contribute to a more united, inclusive, and benevolent world, but above all, to help evolve this movement by proposing a better version of this manifesto.
+
+---
 
 ## [Core Principles](/en/PRINCIPLES.md)
 
