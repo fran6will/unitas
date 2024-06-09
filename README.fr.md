@@ -30,7 +30,7 @@ Unitas repose sur plusieurs piliers essentiels :
 
 Unitas est composé de divers niveaux de groupes communautaires, chacun jouant un rôle crucial dans la cohésion et l'action collective.
 
-### Micro-Essaims
+### [Micro-Essaims](fr/microessaims.md)
 Les micro-essaims sont des groupes de 10-15 personnes se réunissant régulièrement pour discuter, réfléchir, et agir. Ces rencontres offrent un cadre structuré pour des échanges profonds et significatifs, favorisant des projets communautaires et des activités enrichissantes.
 
 ### Essaims Régionaux
