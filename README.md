@@ -1,3 +1,5 @@
+- [English](README.md)
+- [Français](README.fr.md)
 # Unitas: A New Spiritual and Community Platform
 
 ## Introduction
