@@ -26,9 +26,23 @@ Unitas is built on several essential pillars:
 - **Diversity and Inclusion:** The richness of experiences and beliefs is valued.
 - **Transparency and Participation:** Decisions are made collectively, with clarity and openness.
 
-## Micro-Swarms
+## Structure of Unitas
 
-Micro-swarms are groups of 10-15 people who meet regularly to discuss, reflect, and act. These meetings provide a structured framework for deep and meaningful exchanges, fostering community projects and enriching activities. By uniting the micro-swarms, the community gains strength and cohesion, enabling the realization of more complex and ambitious activities. This union promotes structured and ambitious projects, strengthening the sense of belonging and collective dynamics.
+Unitas is composed of various levels of community groups, each playing a crucial role in cohesion and collective action.
+
+### Micro-Swarms
+Micro-swarms are groups of 10-15 people who meet regularly to discuss, reflect, and act. These meetings provide a structured framework for deep and meaningful exchanges, fostering community projects and enriching activities.
+
+### Regional Swarms
+Regional swarms group several micro-swarms within the same administrative region, meeting quarterly to share experiences, discuss common issues, and plan coordinated actions. Regional meetings include discussions and conferences on various issues and themes, strengthening spiritual connection and community richness.
+
+### Nests and Hives
+Nests consist of regional swarms within a large geographical area or country. Hives are the international structure bringing all nests together, facilitating global coordination.
+
+By uniting micro-swarms, regional swarms, nests, and hives, the community gains strength and cohesion, allowing for more complex and large-scale activities. This union fosters ambitious and structured projects, enhancing the sense of belonging and collective dynamics.
+
+### Transmission of Ideas and Projects
+The ability to transmit an idea or project from the individual to the hive via technology is simple, fast, and efficient. Through digital platforms, ideas can be shared, discussed, and voted on at each level, ensuring transparent and participatory coordination with greater reach.
 
 ## Inclusive Activities
 
