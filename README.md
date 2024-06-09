@@ -46,7 +46,7 @@ The ability to transmit an idea or project from the individual to the hive via t
 
 ## Inclusive Activities
 
-Unitas offers various activities open to all, believers and non-believers alike:
+Unitas offers various activities open to all:
 - **Cooking Workshops:** Sharing recipes from around the world.
 - **Potluck Meals:** Friendly moments for sharing and discovering.
 - **Art and Permaculture Workshops:** Creative and ecological exploration.
