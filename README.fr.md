@@ -1,4 +1,3 @@
-# Unitas: Une nouvelle plateforme spirituelle et communautaire
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.fr.md">Français</a>
@@ -9,6 +8,7 @@
 Unitas est un modèle théorique conçu pour inviter à une réflexion collective sur le concept et l'essence du mot religion. Il vise à explorer comment un nouveau cadre spirituel et communautaire peut répondre aux besoins modernes d'inclusivité et de connexion sans les contraintes des structures religieuses traditionnelles.
 
 ---
+# Unitas: Une nouvelle plateforme spirituelle et communautaire
 
 ## Introduction
 
