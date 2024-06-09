@@ -1,8 +1,8 @@
 # Principes Fondamentaux de Unitas
 
 <p align="center">
-  <a href="Docs/en/PRINCIPLES.md">English</a> |
-  <a href="Docs/fr/PRINCIPES.fr.md">Français</a>
+  <a href="/en/PRINCIPLES.md">English</a> |
+  <a href="/fr/PRINCIPES.md">Français</a>
 </p>
 
 ## Note
