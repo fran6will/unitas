@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="#english">English</a> |
-  <a href="#francais">Français</a>
-</p>
+ <a href="#unitas-a-new-spiritual-and-community-platform">English</a> |
+  <a href="#directives-de-contribution-pour-unitas">Français</a>
 
 <a name="english"></a>
 # Contributing Guidelines for Unitas
