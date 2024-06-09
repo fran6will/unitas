@@ -46,7 +46,8 @@ Unitas is a theoretical exercise, a model of a religion that would meet these ne
 ---
 
 **License:**
-This project is licensed under [License Name].
+This project is licensed under GNU General Public License (GPL).
+
 
 ---
 
