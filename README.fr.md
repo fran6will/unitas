@@ -18,7 +18,7 @@ Face au rejet des religions traditionnelles par les jeunes générations, Unitas
 
 ---
 
-## [Les Principes Fondamentaux](fr/Principes.md).
+## [Les Principes Fondamentaux](fr/Principes.md)
 
 Unitas repose sur plusieurs piliers essentiels :
 - **Unité et Égalité:** Chaque individu est traité avec dignité et respect.
@@ -26,18 +26,24 @@ Unitas repose sur plusieurs piliers essentiels :
 - **Diversité et Inclusion:** La richesse des expériences et des croyances est valorisée.
 - **Transparence et Participation:** Les décisions sont prises collectivement, avec clarté et ouverture.
 
-## Micro-Essaims
+## Structure de Unitas
 
-Les micro-essaims sont des groupes de 10-15 personnes se réunissant régulièrement pour discuter, réfléchir, et agir. Ces rencontres offrent un cadre structuré pour des échanges profonds et significatifs, favorisant des projets communautaires et des activités enrichissantes. En unissant les micro-essaims, la communauté gagne en force et en cohésion, ce qui permet de réaliser des activités plus complexes et d'envergure. Cette union favorise des projets ambitieux et structurés, renforçant le sentiment d'appartenance et la dynamique collective.
+Unitas est composé de divers niveaux de groupes communautaires, chacun jouant un rôle crucial dans la cohésion et l'action collective.
 
-## Activités Inclusives
+### Micro-Essaims
+Les micro-essaims sont des groupes de 10-15 personnes se réunissant régulièrement pour discuter, réfléchir, et agir. Ces rencontres offrent un cadre structuré pour des échanges profonds et significatifs, favorisant des projets communautaires et des activités enrichissantes.
 
-Unitas propose diverses activités ouvertes à tous, croyants et non-croyants :
-- **Ateliers de Cuisine:** Partage de recettes du monde entier.
-- **Repas Partagés:** Moments conviviaux pour échanger et découvrir.
-- **Ateliers d'Art et de Permaculture:** Exploration créative et écologique.
-- **Technologie et Innovation:** Ateliers d'impression 3D et de robotique.
-- **Retraites en Nature:** Reconnexion avec l'environnement.
+### Essaims Régionaux
+Les essaims régionaux regroupent plusieurs micro-essaims d'une même région administrative, se réunissant trimestriellement pour partager leurs expériences, discuter des problématiques communes et planifier des actions coordonnées. Les rencontres régionales incluent des discussions et conférences sur diverses problématiques et thématiques, renforçant la connexion spirituelle et la richesse communautaire.
+
+### Nids et Ruches
+Les nids sont l'ensemble des essaims régionaux dans une grande zone géographique ou un pays. Les ruches sont la structure internationale regroupant tous les nids, facilitant la coordination globale.
+
+En unissant les micro-essaims, les essaims régionaux, les nids et les ruches, la communauté gagne en force et en cohésion, ce qui permet de réaliser des activités plus complexes et d'envergure. Cette union favorise des projets ambitieux et structurés, renforçant le sentiment d'appartenance et la dynamique collective.
+
+### Transmission d'Idées et de Projets
+La possibilité de transmettre une idée ou un projet de l'individu jusqu'à la ruche via la technologie est simple, rapide et efficace. Grâce à des plateformes numériques, les idées peuvent être partagées, discutées et votées à chaque niveau, assurant une coordination transparente et participative avec une plus grande portée.
+
 
 ## Transparence et Utilisation des Technologies
 
