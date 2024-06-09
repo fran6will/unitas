@@ -17,6 +17,15 @@ Unitas est un modèle théorique conçu pour inviter à une réflexion collectiv
 Face au rejet des religions traditionnelles par les jeunes générations, Unitas se propose comme un pont entre la spiritualité individuelle croissante et le déclin des systèmes spirituels traditionnels. Offrant un cadre sans clergé ni domination institutionnelle, Unitas vise à ramener les aspects positifs de la religion dans une nouvelle structure, répondant aux besoins modernes de spiritualité moins dogmatique et plus inclusive.
 
 ---
+## Ce que nous croyons
+Unitas est un mouvement spirituel et communautaire dédié à l'unité, l'inclusion et la croissance collective. Nous croyons en une force supérieure appelée, pour l'instant, Source de Vie, Cœur de l'Existence, Souffle Universel, visant à déconstruire l'image patriarcale de Dieu. Tous les êtres humains sont égaux et méritent respect et dignité. La diversité est célébrée et chaque individu est valorisé. Nous croyons en la richesse des échanges entre ceux qui croient à l'astrologie et ceux qui suivent un prophète, mettant en avant l'amour et l'interconnexion. Nous sommes tous une lumière commune, éclairant notre chemin vers la compréhension mutuelle et la compassion.
+
+Nous défendons la liberté de conscience, permettant à chacun de suivre sa propre voie spirituelle tant que cela ne nuit pas aux autres. Nous prônons la transparence et la participation collective dans nos processus décisionnels, assurant une inclusion totale. Nous agissons avec bienveillance et compassion, rejetant toute forme de violence et promouvant un environnement harmonieux. Nous reconnaissons l'importance de protéger notre planète et adoptons des pratiques durables et respectueuses de l'environnement.
+
+L'éducation et le partage des connaissances sont au cœur de notre engagement, favorisant la croissance collective et l'épanouissement personnel. Les arts sont valorisés comme moyen d'expression personnelle et de connexion spirituelle, tandis que l'humour et l'auto-dérision sont essentiels pour maintenir un équilibre spirituel et émotionnel. Nous équilibrons la contemplation spirituelle avec des actions bienveillantes pour le bien collectif. Nous aspirons à un monde meilleur, rempli d'amour, et à créer un esprit fort de communauté qui manque en ce moment.
+
+Notre système évolue avec le temps, intégrant les avancées technologiques et scientifiques pour rester pertinent et accessible. Nous croyons que nos principes et nos lois doivent évoluer pour s'adapter aux réalités contemporaines, tout en restant fidèles à nos valeurs fondamentales. Nous vous invitons à explorer cette vision avec nous, à contribuer à un monde plus uni, inclusif et bienveillant, mais surtout à faire évoluer ce mouvement en proposant une meilleure version de ce manifeste.
+
 
 ## [Les Principes Fondamentaux](fr/Principes.md)
 
