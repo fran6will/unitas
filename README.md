@@ -30,7 +30,7 @@ Unitas is built on several essential pillars:
 
 Unitas is composed of various levels of community groups, each playing a crucial role in cohesion and collective action.
 
-### Micro-Swarms
+### [Micro-Swarms](en/microswarms.md)
 Micro-swarms are groups of 10-15 people who meet regularly to discuss, reflect, and act. These meetings provide a structured framework for deep and meaningful exchanges, fostering community projects and enriching activities.
 
 ### Regional Swarms
