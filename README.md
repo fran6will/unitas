@@ -1,5 +1,7 @@
-- [English](README.md)
-- [Français](README.fr.md)
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.fr.md">Français</a>
+  
 # Unitas: A New Spiritual and Community Platform
 
 ## Introduction
