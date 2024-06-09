@@ -36,24 +36,24 @@ Les micro-essaims offrent une opportunité unique de cultiver des relations plus
 
 2. **Illumination (Inspiré par la Lumière du Jour)**
    - **Symbolique :** La lumière du jour qui éclaire les idées et apporte clarté et compréhension.
-   - **Activités :** Présentation du thème central par l'animateur-trice : la hausse des paniers d'épicerie et la pertinence de solutions comme la permaculture et la préservation des aliments.
+   - **Activités :** Présentation du thème central par l'animateur-trice : la hausse des paniers d'épicerie.
 
 3. **Résonance (Inspiré par l'Écho)**
    - **Symbolique :** L'écho dans les vallées, représentant le partage d'expériences et la résonance des voix.
-   - **Activités :** Témoignage personnel d'un membre sur ses expériences avec l'autosuffisance alimentaire, suivi d'une discussion ouverte.
+   - **Activités :** Témoignage personnel d'un membre sur la honte qu'iel ressent à propos d'avoir utiliser pour une première fois, une banque alimentaire. Un autre membre partage sur ses expériences avec l'autosuffisance alimentaire.
 
 4. **Flux (Inspiré par les Rivières)**
    - **Symbolique :** Le flux des rivières, symbolisant le partage d'idées et de projets qui circulent et nourrissent.
-   - **Activités :** Présentation de projets de potager en permaculture, discussion sur l'impact potentiel de ces projets sur la communauté.
+   - **Activités :** L'idée de s'impliquer dans un jardin communautaire est amenée, discussion sur l'impact potentiel de ces projets sur la communauté.
 
 5. **Diversité (Inspiré par la Biodiversité)**
    - **Symbolique :** La biodiversité dans la nature, représentant la richesse des perspectives et des identités.
-   - **Activités :** Échanges sur différentes techniques de permaculture et de préservation des aliments, activités de sensibilisation sur l'importance de la diversité alimentaire.
+   - **Activités :** Un membre partage son expérience récente avec la fermentation, expliquant les étapes et les avantages de cette technique de conservation. Discussion sur l'importance d'inclure diverses cultures et traditions dans les pratiques de jardinage et de conservation, et comment ces pratiques peuvent enrichir la communauté
 
 6. **Croissance (Inspiré par les Arbres)**
    - **Symbolique :** La croissance des arbres, représentant le développement des actions et des initiatives.
-   - **Activités :** Brainstorming d'actions concrètes pour développer un jardin communautaire, préparation en vue d’un vote à la maison et planification des prochaines étapes.
+   - **Activités :** Brainstorming d'actions concrètes : développer un atelier ouvert à touste où l'on apprendrait comment préparer la terre de son potager et conserver ses aliments le plus longtemps possible. Préparation en vue d’un vote à la maison, sur la plateforme, et planification des prochaines étapes.
 
 7. **Réflexion (Inspiré par le Crépuscule)**
    - **Symbolique :** Le crépuscule, symbolisant la réflexion, l'intégration des apprentissages, et la gratitude.
-   - **Activités :** Réflexions finales sur la session, méditation de clôture sur la gratitude, bénédiction de fin pour remercier la Source de Vie et la communauté.
+   - **Activités :** Réflexions et échanges plus spirituels, partage de textes, de citations, méditation de clôture sur la gratitude, bénédiction de fin pour remercier la Source de Vie et la communauté.
